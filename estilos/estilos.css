@@ -14,9 +14,8 @@ body{
 }
 
 .fondoAzulClaro{
-	background-color: lightblue;
+	background-color: lightblue; /* Hola Estoy comentando */
 }
-
 
 #l1{	
 	border: 3px solid white;		
